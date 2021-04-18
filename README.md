@@ -2,7 +2,7 @@
 
 Simple collection of traditional Coding Theory algorithms made in Kotlin, with a touch of functional programming.
 
-Every scritp is meat to be used with [kscript](https://github.com/holgerbrandl/kscript).
+Every script is meant to be used with [kscript](https://github.com/holgerbrandl/kscript).
 
 ## Burrows–Wheeler Transform
 
