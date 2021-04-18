@@ -1,5 +1,3 @@
-// in fibonacci.md qualche spiegazione
-
 import kotlin.math.pow
 import kotlin.math.log2
 import kotlin.math.ln
